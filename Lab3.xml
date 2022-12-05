@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lab3.xsl"?>
+
+<admin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Lab3.xsd">
+
+    <office>
+    <f1>
+    <faculty_name> Marshall Decouth</faculty_name>
+    <faculty_id>1900401</faculty_id>
+    <hiredate>October 15,2006</hiredate>
+    <email>marshall45@gmail.com</email>
+    <salary>40000</salary>
+    </f1>
+    
+    <f1>
+    <faculty_name> Meenkashi A</faculty_name>
+    <faculty_id>1900402</faculty_id>
+    <hiredate>May 05,2008</hiredate>
+    <email>meenu15@gmail.com</email>
+    <salary>35000</salary>
+    </f1>
+
+    <f1>
+    <faculty_name> Pilomin S</faculty_name>
+    <faculty_id>1900403</faculty_id>
+    <hiredate>June 01,2009</hiredate>
+    <email>pilomin9@gmail.com</email>
+    <salary>45000</salary>
+    </f1>
+
+    <f1>
+    <faculty_name> Bubbly G</faculty_name>
+    <faculty_id>1900404</faculty_id>
+    <hiredate>May 15,2010</hiredate>
+    <email>bubbly40@gmail.com</email>
+    <salary>40000</salary>
+    </f1>
+
+    <f1>
+    <faculty_name>Anitha M</faculty_name>
+    <faculty_id>1900405</faculty_id>
+    <hiredate>June 10,2010 </hiredate>
+    <email>anitha10@gmail.com</email>
+    <salary>45000</salary>
+    </f1>
+    </office>
+
+    <student>
+    <s1>
+    <student_name> Ranjana C</student_name>
+    <student_id>2247201</student_id>
+    <phone_number>90037848923</phone_number>
+    <document_verification>done</document_verification>
+    <fees>80000</fees>
+    </s1>
+    
+    <s1>
+    <student_name> Lalitha Mary F</student_name>
+    <student_id>2247202</student_id>
+    <phone_number>9003784877</phone_number>
+    <document_verification>done</document_verification>
+    <fees>80000</fees>
+    </s1>
+
+    <s1>
+    <student_name> Apoorva BC</student_name>
+    <student_id>2247203</student_id>
+    <phone_number>9003784864</phone_number>
+    <document_verification>not done</document_verification>
+    <fees>85000</fees>
+    </s1>
+
+    <s1>
+    <student_name> Siddharth KM</student_name>
+    <student_id>2247204</student_id>
+    <phone_number>9107845673</phone_number>
+    <document_verification>done</document_verification>
+    <fees>90000</fees>
+    </s1>
+
+    <s1>
+    <student_name> Prerana Udupa</student_name>
+    <student_id>2247205</student_id>
+    <phone_number>9087456212</phone_number>
+    <document_verification>not done</document_verification>
+    <fees>85000</fees>
+    </s1>
+</student>
+
+    <staff>
+    <k1>
+    <Staff_name>Ms. Saraswathi</Staff_name>
+    <staff_id>1900785</staff_id>
+    <hiredate>04 July 2000</hiredate>
+    <phone_number>8097675423</phone_number>
+    <salary>30000</salary>
+    </k1>
+
+    <k1>
+    <Staff_name>Mr Krishnappa</Staff_name>
+    <staff_id>1900786</staff_id>
+    <hiredate>04 July 2002</hiredate>
+    <phone_number>9066744523</phone_number>
+    <salary>30100</salary>
+    </k1>
+
+    <k1>
+    <Staff_name>Ms Leela</Staff_name>
+    <staff_id>1900787</staff_id>
+    <hiredate>05 June 2005</hiredate>
+    <phone_number>80979067325</phone_number>
+    <salary>35000</salary>
+    </k1>
+
+    <k1>
+    <Staff_name>Mr.Hiranayya</Staff_name>
+    <staff_id>1900788</staff_id>
+    <hiredate>04 May 2007</hiredate>
+    <phone_number>8097675563</phone_number>
+    <salary>25000</salary>
+    </k1>
+    </staff>
+    
+    </admin>
